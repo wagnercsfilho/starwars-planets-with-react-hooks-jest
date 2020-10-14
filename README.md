@@ -1,2 +1,11 @@
 # starwars-planets-with-react-hooks-jest
-Created with CodeSandbox
+
+#### StarWars Planet List Demo Application
+
+A simple react application
+
+#### Using
+
+- React Hooks
+- ContextApi
+- Jest
