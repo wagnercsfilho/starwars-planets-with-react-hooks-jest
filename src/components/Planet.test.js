@@ -15,7 +15,7 @@ describe("Planet", () => {
 
   it("should render planet name", () => {
     const component = shallow(<Planet {...props} />);
-    expect(component.find("div").contains(props.planet.name)).toBeTruthy();
+    expect(component.find("div").text()).toEqual(props.planet.name);
   });
 
   it("should call remove function when button clicked", () => {
