@@ -9,3 +9,5 @@ A simple react application
 - React Hooks
 - ContextApi
 - Jest
+- Enzyme
+- Sinon
