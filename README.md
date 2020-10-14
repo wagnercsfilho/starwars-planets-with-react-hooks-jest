@@ -1,6 +1,6 @@
 # starwars-planets-with-react-hooks-jest
 
-#### StarWars Planet List Demo Application
+#### Star Wars Planet List Demo Application
 
 A simple react application
 
